@@ -23,3 +23,5 @@ app.MapHub<ChatHub>("/chatHub");
 //app.MapGet("/", () => "Hello World!");
 
 app.Run();
+
+// 2024.12.27 
